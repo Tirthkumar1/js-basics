@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(24, 24, 24);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.RPC{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.emoji {
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+  padding: 30px;
+  background-color: black;
+  border-color: black;
+  cursor: pointer;
+  border: 0cap;
+}
+
+.js-score{
+  margin-top: 60px;
+}
+
+.Reset-button{
+  background-color: white;
+  color: black;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.js-results{
+  font-size: 20px;
+  font-weight: bold ;
+}
